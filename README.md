@@ -1,7 +1,5 @@
 <h1> TravellBuddy Web Project</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 TravelBuddy is a tourism web project built with HTML, CSS, and JavaScript, offering a sleek and interactive interface to explore travel destinations, packages, and tips. Designed for an engaging user experience, it helps users plan trips with ease and discover exciting adventures.
 <br />
@@ -20,28 +18,28 @@ TravelBuddy is a tourism web project built with HTML, CSS, and JavaScript, offer
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Design: <br/>
 <img src="https://i.imgur.com/xgMco1k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+
 <img src="https://i.imgur.com/VzlpU0f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+
 <img src="https://i.imgur.com/XVtPivq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+
 <img src="https://i.imgur.com/vRhQXIt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+
 <img src="https://i.imgur.com/2UchNYI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/eUNkfGO.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
