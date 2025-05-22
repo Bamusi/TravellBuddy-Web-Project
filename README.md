@@ -39,7 +39,7 @@ Design: <br/>
 <br />
 <br />
 
-<img src="https://i.imgur.com/eUNkfGO.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eUNkfGO.jpeg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
